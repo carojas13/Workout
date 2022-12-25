@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Workout</string>
+    <string name="starting_image">Start Screen</string>
+    <string name="image">image</string>
+</resources>
